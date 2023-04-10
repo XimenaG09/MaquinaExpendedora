@@ -1,0 +1,15 @@
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\obj\Debug\net6.0\ProyectoDemo.csproj.AssemblyReference.cache
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\obj\Debug\net6.0\ProyectoDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\obj\Debug\net6.0\ProyectoDemo.AssemblyInfoInputs.cache
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\obj\Debug\net6.0\ProyectoDemo.AssemblyInfo.cs
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\obj\Debug\net6.0\ProyectoDemo.csproj.CoreCompileInputs.cache
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\bin\Debug\net6.0\ProyectoDemo.exe
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\bin\Debug\net6.0\ProyectoDemo.deps.json
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\bin\Debug\net6.0\ProyectoDemo.runtimeconfig.json
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\bin\Debug\net6.0\ProyectoDemo.dll
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\bin\Debug\net6.0\ProyectoDemo.pdb
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\obj\Debug\net6.0\ProyectoDemo.dll
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\obj\Debug\net6.0\refint\ProyectoDemo.dll
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\obj\Debug\net6.0\ProyectoDemo.pdb
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\obj\Debug\net6.0\ProyectoDemo.genruntimeconfig.cache
+D:\Parque soft\Periodo 4\.NET\ProyectoDemo\obj\Debug\net6.0\ref\ProyectoDemo.dll
